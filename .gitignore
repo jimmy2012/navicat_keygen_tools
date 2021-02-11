@@ -1,0 +1,6 @@
+bin/*
+navicat-patcher/Elf64Crafter.h
+navicat-patcher/Elf64Crafter.cc
+navicat-patcher/Elf64InterpreterAmd64.h
+navicat-patcher/Elf64InterpreterAmd64.cc
+RegPrivateKey.pem
